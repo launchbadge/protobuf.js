@@ -1,5 +1,5 @@
 {
-  "name": "protobufjs",
+  "name": "@launchbadge/protobufjs",
   "version": "7.0.0",
   "versionScheme": "~",
   "description": "Protocol Buffers for JavaScript (& TypeScript).",
@@ -50,7 +50,7 @@
     "@protobufjs/eventemitter": "^1.1.0",
     "@protobufjs/fetch": "^1.1.0",
     "@protobufjs/float": "^1.0.2",
-    "@protobufjs/inquire": "^1.1.0",
+    "@launchbadge/protobufjs-inquire": "^1.1.0",
     "@protobufjs/path": "^1.1.2",
     "@protobufjs/pool": "^1.1.0",
     "@protobufjs/utf8": "^1.1.0",
